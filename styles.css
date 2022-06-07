@@ -43,6 +43,11 @@ button:hover {
     transition: 300ms;
 }
 
+#nao-nargas h1:hover {
+    background-color: rgb(131, 22, 22);
+    box-shadow: -1rem 1rem 1rem ;
+}
+
 #talvez-nargas {
     display: flex;
     justify-content: center;
